@@ -1,0 +1,25 @@
+{
+  "name": "indexdbwrapper",
+  "version": "1.0.0",
+  "description": "IndexDBWrapper is a library that allows you to interact with the IndexedDB API in a relational way. It is not an ORM. It only provides simple CRUD methods to interact with the IndexedDB API.",
+  "main": "Index.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightmaregaurav/indexdbwrapper.git"
+  },
+  "keywords": [
+    "index-db-wrapper",
+    "index-db",
+    "indexdb"
+  ],
+  "author": "nightmaregaurav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightmaregaurav/indexdbwrapper/issues"
+  },
+  "homepage": "https://github.com/nightmaregaurav/indexdbwrapper#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.17",
+    "typescript": "^5.3.3"
+  }
+}
