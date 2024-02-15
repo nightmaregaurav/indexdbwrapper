@@ -5,7 +5,7 @@
 ***
 
 ## Description
-IndexDBWrapper is a library that allows you to interact with the IndexedDB API in a relational way. It is not an ORM. It only provides simple CRUD methods to interact with the IndexedDB API.
+IndexDBWrapper is a library that allows you to interact with the IndexedDB API. It is not an ORM. It only provides simple CRD methods to interact with the IndexedDB API.
 
 ## Installation
 ```bash
