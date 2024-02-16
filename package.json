@@ -1,6 +1,6 @@
 {
   "name": "@nightmaregaurav/indexdbwrapper",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "IndexDBWrapper is a library that allows you to interact with the IndexedDB API in a relational way. It is not an ORM. It only provides simple CRUD methods to interact with the IndexedDB API.",
   "repository": {
     "type": "git",
