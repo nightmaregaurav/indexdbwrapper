@@ -34,7 +34,7 @@ const db = new IndexDBWrapper("test_database", 1);
 
 ### Delete a Value
 ```typescript
-    await db.Delete("key");
+    await db.Remove("key");
 ```
 
 ## How to Contribute
